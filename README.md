@@ -9,4 +9,6 @@ NamasteReact-Course
             - Nesting and Sibling Structure in React
 
 - Episode 2 : Igniting our App
-            - 
+            - NPM & Dependencies
+            - Creating Custom App
+            - Parcel : The Beast
