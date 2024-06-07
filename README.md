@@ -12,3 +12,8 @@ NamasteReact-Course
             - NPM & Dependencies
             - Creating Custom App
             - Parcel : The Beast
+
+- Episode 3 : Laying Foundation
+            - React Core : React Element, React Component, Component Composition
+            - Superpowers of Babel and JSX
+
